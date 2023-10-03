@@ -2,6 +2,7 @@
 using namespace std;
 
 // 02.09.2023
+// 2038. Remove colored pieces if both neighbors are the same color
 // The main idea is to just count the number of letters 'A' and 'B' that we can delete. After that, if Alcie has more letters to delete, she will win. Otherwise, Bob wins.
 class Solution {
 public:

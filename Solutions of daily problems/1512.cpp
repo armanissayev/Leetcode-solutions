@@ -2,6 +2,7 @@
 using namespace std;
 
 // 03.10.2023
+// 1512. Number of good pairs
 // The main idea is to count the number of occurrence of a[i] that comes before i, and sum up these values. 
 
 class Solution {
